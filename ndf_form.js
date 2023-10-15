@@ -1,4 +1,4 @@
-<script>
+
     function afficherPopup() {
         // Créer une fenêtre contextuelle
         var popup = window.open('', '_blank', 'width=600,height=400');
@@ -96,4 +96,3 @@
             alert(JSON.stringify(depenses));
         };
     }
-</script>
